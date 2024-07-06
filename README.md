@@ -1,4 +1,3 @@
-# Introduction
 # Features
 User authentication and authorization
 CRUD operations for stocks and comments
